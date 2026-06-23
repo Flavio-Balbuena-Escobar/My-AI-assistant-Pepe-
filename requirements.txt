@@ -1,0 +1,10 @@
+customtkinter==5.2.2
+Pillow==11.0.0
+pyttsx3==2.98
+SpeechRecognition==3.14.3
+PyAudio==0.2.14
+pywhatkit==5.4
+wikipedia==1.4.0
+ChatterBot==1.2.3
+spacy==3.8.7
+SQLAlchemy==2.0.41
