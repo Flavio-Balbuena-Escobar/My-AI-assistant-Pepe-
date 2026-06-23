@@ -50,6 +50,8 @@ Looking back, Pepe AI represents more than lines of code. It represents curiosit
 
 ## Project Documentation
 
-The complete development process of Pepe AI, including planning documents, development journals, reports, reflections, and final deliverables, is available here:
+Throughout 2025, I documented the development of Pepe AI through journals, reports, planning records, and reflections that tracked the project's growth from its earliest prototype to its final version.
+
+**Note:** All documentation is available in Spanish, as it was originally produced for academic and project assessment purposes.
 
 📂 [Pepe AI Development Documentation](https://drive.google.com/drive/folders/17R4CCqoFruDlZYbnXT7-Elu_sgfoF2qt?usp=sharing)
