@@ -47,3 +47,9 @@ What started as a school project soon grew far beyond the expectations of a regu
 More importantly, this project became much more than a competition entry. It became an opportunity to learn, experiment, make mistakes, and improve. Through its development, I discovered a genuine interest in artificial intelligence and machine learning, while also gaining my first insights into another field that would later capture my attention: cybersecurity.
 
 Looking back, Pepe AI represents more than lines of code. It represents curiosity, perseverance, and the beginning of a path of continuous learning in technology and computer science.
+
+## Project Documentation
+
+The complete development process of Pepe AI, including planning documents, development journals, reports, reflections, and final deliverables, is available here:
+
+📂 [Pepe AI Development Documentation](https://drive.google.com/drive/folders/17R4CCqoFruDlZYbnXT7-Elu_sgfoF2qt?usp=sharing)
